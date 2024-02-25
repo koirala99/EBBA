@@ -48,9 +48,24 @@ The major findings from the analysis are as follows:
 * Employees earning in the income slab of Upto 5k have the highest attrition rate while employees earning in the income slab of 15k+ have the lowest attrition rate. 
 * On an average, employees earning less than $4500 have the highest attrition rate while employees earning higher than $6500 have reduced attrition. 
 * Employees who have yearly salary growth of less than 15% have the highest attrition rate.
+* Employees having a Marketing education background have the highest monthly pay followed by Human resources while employees with Technical Degree have the lowest monthly pay. 
 
 ## Practical implicaitons
-The recommendation
+The implications that managers adn executives can make to reduce employ attrition in their orgaization includes the following:  
+* Focus on retention strategies for employees aged 26-35, such as career development and work-life balance initiatives.
+* Enhance the workplace experience for employees living near the organization through commuter benefits and nearby amenities.
+* Review promotion policies to provide adequate support and development opportunities for newly promoted employees.
+* Ensure competitive salaries and merit-based increases to retain talent, particularly for those earning below $4500 and experiencing slower salary growth.
+* Address pay disparities based on educational background and invest in professional development to bridge gaps and retain technical talent.
+
+## Conclusion  
+In conclusion, the analysis conducted as part of the Evidence-Based Business Analytics course at Kathmandu University School of Management (KUSOM) yielded valuable insights into employee demographics, characteristics, and factors influencing attrition. Leveraging the HR Analytics Dataset from Kaggle, thorough data cleaning and visualization using Power Query and Power BI enabled a comprehensive understanding of the organizational workforce.  
+
+Key findings highlighted significant correlations between various factors and employee attrition. Notably, employees aged 26-35 exhibited the highest attrition count, while those aged 18-25 had the highest attrition rate. Additionally, proximity to the workplace, recent promotions, lower salaries, slower salary growth, and educational background were identified as contributors to attrition.  
+
+These findings offer actionable implications for managers and executives aimed at mitigating attrition and fostering a more stable and engaged workforce. Strategies such as targeted retention efforts for specific age groups, improving the workplace experience for local employees, revising promotion policies, ensuring competitive compensation, and addressing pay disparities based on education can effectively reduce attrition rates.  
+
+By incorporating these insights into organizational decision-making processes, businesses can proactively address attrition challenges, enhance employee satisfaction and retention, and ultimately improve overall organizational performance and stability. 
 
 
 
