@@ -50,8 +50,8 @@ The major findings from the analysis are as follows:
 * Employees who have yearly salary growth of less than 15% have the highest attrition rate.
 * Employees having a Marketing education background have the highest monthly pay followed by Human resources while employees with Technical Degree have the lowest monthly pay. 
 
-## Practical implicaitons
-The implications that managers adn executives can make to reduce employ attrition in their orgaization includes the following:  
+## Practical implications
+The implications that managers and executives can make to reduce employee attrition in their organization includes the following:  
 * Focus on retention strategies for employees aged 26-35, such as career development and work-life balance initiatives.
 * Enhance the workplace experience for employees living near the organization through commuter benefits and nearby amenities.
 * Review promotion policies to provide adequate support and development opportunities for newly promoted employees.
