@@ -1,6 +1,6 @@
 # Unlocking HR Insights: Data-driven Decisions
 
-**Authors**  
+**Authors:**
 *Prajwal Koirala* and *Samin Aryal*
 
 
