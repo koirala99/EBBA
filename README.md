@@ -23,7 +23,7 @@ The employees attrition is at 16.16% meaning that among the total employees 16.1
 
 #### Research Questions
 The question which we are trying to answer through the analysis includes the followings:  
-*Which age group has the highest attrition?
+* Which age group has the highest attrition?
 * Does distance from home impact employee attrition rate?
 * Does salary determine attrition among employees?
 * Do years since the last promotion trigger attrition among employees?
@@ -31,7 +31,7 @@ The question which we are trying to answer through the analysis includes the fol
 * Does the education field determine monthly salary?
 * Does monthly income determine attrition?
 
-![alt text](https://github.com/koirala99/Pair-Project/blob/main/main%20chart_page-0005.jpg)  
+![alt text](https://github.com/koirala99/Pair-Project/blob/main/main%20chart_page-0005.jpg) 
 The highest number of employee attrition in terms of absolute number is seen in the age group 26-35 years. But if we see with a close eye, we can see that the highest rate of employee attrition is seen in the age group 18-25 where almost half of the employees were leaving the job. Likewise we also found that the highest attrition among employees due to distance from home ranges between 0 km and 4km. A second spike in attrition is seen when an employees house is at a distance of 8-10 km and a third spike is seen when the employees house is at a distance of 23-25 km.  
 
 ![alt text](https://github.com/koirala99/Pair-Project/blob/main/main%20chart_page-0006.jpg)  
