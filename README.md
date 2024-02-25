@@ -59,7 +59,7 @@ The implications that managers adn executives can make to reduce employ attritio
 * Address pay disparities based on educational background and invest in professional development to bridge gaps and retain technical talent.
 
 ## Conclusion  
-In conclusion, the analysis conducted as part of the Evidence-Based Business Analytics course at Kathmandu University School of Management (KUSOM) yielded valuable insights into employee demographics, characteristics, and factors influencing attrition. Leveraging the HR Analytics Dataset from Kaggle, thorough data cleaning and visualization using Power Query and Power BI enabled a comprehensive understanding of the organizational workforce.  
+In conclusion, the analysis conducted yielded valuable insights into employee demographics, characteristics, and factors influencing attrition. Leveraging the HR Analytics Dataset from Kaggle, thorough data cleaning and visualization using Power Query and Power BI respectively, enabled a comprehensive understanding of the organizational workforce.  
 
 Key findings highlighted significant correlations between various factors and employee attrition. Notably, employees aged 26-35 exhibited the highest attrition count, while those aged 18-25 had the highest attrition rate. Additionally, proximity to the workplace, recent promotions, lower salaries, slower salary growth, and educational background were identified as contributors to attrition.  
 
