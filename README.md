@@ -1,5 +1,5 @@
 # Unlocking HR Insights: Data-driven Decisions
-*This Power BI project focuses on HR analytics and aims to provide insights into various aspects of human resources within an organization.*  
+#### *"This Power BI project focuses on HR analytics and aims to provide insights into various aspects of human resources within an organization."*  
 
 ### **Authors:**
 ***Prajwal Koirala (207051)* and *Samin Aryal (207008)***
